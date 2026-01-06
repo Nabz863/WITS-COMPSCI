@@ -1,0 +1,9 @@
+I don't have our 2025 paper and I wrote it a couple months back so take this with a grain of salt:
+Ton of theory on everything, you really had to know the concepts in depth 
+
+Gave us a big diagram of a full RNN architecture (or something else I forget but it was a big diagram from the slides) and you had to fill in the missing components names / explain the different parts.
+
+Asked us to compute a transformer calc but it was a huge matrix, like 3x3 attention matrix which tripped up a lot of people
+
+He asked us about afribert, their discoveries / key stuff etc. 
+
